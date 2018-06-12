@@ -13,9 +13,9 @@ A simple program to illustrate maze traversal and random maze generation using D
 
 - Download the project and run on Netbeans or similar IDE.
 - _src/FixedMaze_ contains logic for __maze traversal__
-..* run main() in _src/FixedMaze/MazeTraverse.java_
+  * run main() in _src/FixedMaze/MazeTraverse.java_
 - _src/RandomMaze_ has a file to __randomly generate maze__ on every execution
-..* run main() in _src/RandomMaze/MazeGeneratorFrame.java_
+  * run main() in _src/RandomMaze/MazeGeneratorFrame.java_
 
 ## Description
 
